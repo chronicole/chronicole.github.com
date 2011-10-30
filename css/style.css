@@ -302,18 +302,18 @@ body {
 }
 
 
-#news p {
+#education p, #professional p, #personal p {
 	font: normal 9px "DroidSansBold", Verdana, sans-serif;
 	color: #98988c;
 	text-transform: uppercase;
 }
 
-#news p a {
+#education p a, #professional p a, #personal p a {
 	color: #98988c;
 	text-decoration: underline;
 }
 
-#news p a:hover {
+#education p a:hover, #professional p a:hover, #personal p a:hover {
 	text-decoration: none;
 }
 
@@ -342,30 +342,6 @@ body {
 	width: 300px;
 	background: #d0d0c6;
 	background: rgba(208, 208, 198, .5);
-}
-
-/***** SPECIALS *****/
-
-#specials {
-	text-align: center;
-}
-
-#specials p {
-	padding: 10px;
-	font: normal 13px "DroidSansRegular", Verdana, Arial, sans-serif;
-	color: #6a6a5d;
-}
-
-#specials img.price {
-	margin-top: 15px;
-	width: 87px;
-}
-
-#specials img.price:hover {
-	-webkit-transform: rotate(-5deg); 
-	-moz-transform: rotate(-5deg); 
-	-o-transform: rotate(-5deg); 
-	transform: rotate(-5deg);
 }
 
 /***** NEWSLETTER *****/

@@ -72,7 +72,76 @@ body {
 }
 
 /***** HEADER & NAVIGATION *****/
+/* ----aside---- */
+aside{
+	float:left;
+	width:248px;
+	position:fixed;
+	padding-top:10px;
+}
 
+/* ----nav---- */
+nav{
+	text-align:center;
+	margin-bottom:20px;
+}
+
+nav .logo{
+	font-family: "LeagueGothicRegular", Arial, Helvetica, sans-serif;
+	font-size:43px;
+	text-transform:uppercase;
+	text-align:center;
+	color:#a08784;
+	text-decoration:none;
+	margin:20px 0;
+	display:block;
+	font-weight:normal;
+	color:#a08784;
+	text-decoration:none;
+	text-shadow: #fff 0px 1px 0px;
+}
+nav .logo span{
+	font-size:15px;
+	display:block;
+	background:url(../images/a_portfolio_bg.png) no-repeat center .2em;
+	color:#c4bab7;
+	font-weight:normal;
+}
+
+nav ul{
+	/*background:url(../images/nav_bg.png) no-repeat bottom center;*/
+	font-family: "LeagueGothicRegular", Arial, Helvetica, sans-serif;
+	font-size:30px;
+	padding-top:30px;
+	background:url(../images/nav_bg.png) no-repeat top center;
+	text-transform:uppercase;
+}
+nav ul li{
+	position:relative;
+	margin-top:-7px;
+}
+nav ul li a, nav ul li a:link{
+	color:#7d6865;
+	text-decoration:none;
+	padding:10px 0 10px 0;
+	display:block;
+	text-shadow: #fff 0px 1px 0px;
+}
+nav ul li a:hover{
+	text-decoration:none;
+	color:#634d4a;
+}
+nav ul li.active{
+	background:url(../images/nav_active.png) no-repeat 26px .1em;
+}
+nav ul li.active a{
+	color:#fff;
+	text-shadow: #2b0d09 0px 1px 0px;
+}
+nav .bg_bottom{
+	background:url(../images/nav_bg.png) no-repeat bottom center;
+	height:30px;
+}
 
 /***** OPPORTUNITY SECTION *****/
 

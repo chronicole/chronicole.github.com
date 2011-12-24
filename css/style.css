@@ -205,36 +205,35 @@ nav .bg_bottom{
 	opacity:1;
 }
 
-/***** BLOCKS*****/
-
-#blocks {
-	float: left;
-	margin-top: 20px;
+/* ----headers---- */
+h2, h3{
+	/*background:url(../images/nav_bg.png) no-repeat bottom center;*/
+	font-family: "LeagueGothicRegular", Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	color:#575757;
+	margin-bottom:20px;
+}
+h2{
+	font-size:72px;
+	line-height:80px;
+}
+h3{
+	font-size:40px;
+	line-height:45px;
+}
+h4{
+	font-size:14px;
+	line-height:20px;
+	color:#575757;
+	margin-bottom:20px;
+	
+}
+p{
+	
+	line-height:20px;
+	margin-bottom:20px;
 }
 
-#blocks section {
-	float: left;
-	width: 290px;
-	height: 230px;
-	display: inline;
-	background: #fafaf6;
-	border: 5px solid #e9e9e4;
-	margin-right: 30px;
-}
-
-#blocks section:last-child {
-	margin-right: 0;
-}
-
-.box h1 {
-	font: normal 24px "DroidSansBold", Georgia, serif;
-	color: #717165;
-	margin-left: 10px;
-	padding: 5px 0 0 0;
-	border-bottom: 1px solid #ecece9;
-	width: 270px;
-	text-align: left;
-}
 
 /***** NEWS *****/
 
@@ -419,22 +418,27 @@ nav .bg_bottom{
 	border-right: none;
 }
 
-.copyright {
-	opacity: .15;
-	padding: 20px 0 0 35px;
-	height: 67px;
-	font: normal 10px "DroidSansRegular", Verdana, sans-serif;
-	line-height: 16px;
-	margin-top: 15px;
-	color: #000000;
-	-webkit-transition: opacity .3s ease-in-out;
-	-moz-transition: opacity .3s ease-in-out;
-	-o-transition: opacity .3s ease-in-out;
-	transition: opacity .3s ease-in-out;
+/* ----copyright---- */
+.copyright{
+	margin-top:100px;
+	padding-top:10px;
+	float:left;
+	width:100%;
+	background:url(../images/line_border.gif) repeat-x;
 }
-
-
-.copyright:hover {
-	opacity: .7;
+.copyright small{
+	font-size:11px;
 }
-
+.copyright a{
+	color:#b5b5b5;
+	text-decoration:none;
+	font-weight:bold;
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+.copyright a:hover{
+	color:#616161;
+	text-decoration:underline;
+}

@@ -94,8 +94,8 @@ nav .logo span{
 nav ul{
 	/*background:url(../images/nav_bg.png) no-repeat bottom center;*/
 	font-family: "LeagueGothicRegular", Arial, Helvetica, sans-serif;
-	font-size:30px;
-	padding-top:30px;
+	font-size:18px;
+	padding-top:23px;
 	background:url(../images/nav_bg.png) no-repeat top center;
 	text-transform:uppercase;
 }
@@ -312,8 +312,7 @@ p{
 }
 
 .opportunity ul li {
-  
-  padding: ;
+
 }
 
 .opportunity {
@@ -335,6 +334,7 @@ p{
 
 .opportunity:hover {
 	width: 815px;
+	left: -30px;
 	background: #d0d0c6;
 	background: rgba(208, 208, 198, .5);
 }
@@ -462,7 +462,7 @@ p{
 
 /* ----copyright---- */
 .copyright{
-	margin-top:100px;
+	margin-top:10px;
 	padding-top:10px;
 	float:left;
 	width:100%;

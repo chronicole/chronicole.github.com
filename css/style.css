@@ -61,13 +61,6 @@ input:invalid, textarea:invalid { background-color: #f0dddd; }
 table { border-collapse: collapse; border-spacing: 0; }
 td { vertical-align: top; }
 
-
-/* ===================================================
-    Initializr styles
-    http://verekia.com/initializr/responsive-template
-    Author: Jonathan Verrecchia
-   =================================================== */
-
 body { 
 	font:14px/22px 'PT Sans', Arial, sans-serif;
 	color: #000; 
@@ -75,12 +68,8 @@ body {
 
 .wrapper{
 	width:90%;
-	margin:0 5%;
+	margin:0 12%;
 }
-
-/* ===================
-    ALL: Theme
-   =================== */
 
 #header-container{  }
 #footer-container{  }
@@ -117,13 +106,6 @@ address span {
 	padding: 0 9px 0 0;
 }
 
-.timeline {
-	margin: 97px 0 0 -150px;
-	float: left;
-	font-size: 13px;
-	font-style: italic;
-}
-
 ul li {
 	list-style: none;
 	line-height: 16px;
@@ -142,12 +124,28 @@ ul {
 	padding:30px 0;
 }
 
+#main article{
+	float:left;
+	width:57%;
+	padding: 0 0 0 50px;
+}
+
 #main article h1{
 	font-size:2em;
 }
 
+.timeline {
+	margin: -2px 0px 0px -165px;
+	float: left;
+	font-size: 13px;
+	font-style: italic;
+	text-align: right;
+	min-width: 15%;
+}
+
 #main aside{
-	
+	float:right;
+	width:28%;
 }
 
 #footer-container footer{
@@ -175,25 +173,42 @@ ul {
 
 /* ==|== media queries ====================================================== */
 
-@media only screen and (min-width: 480px) {
+@media only screen and (max-width: 480px) {
 
+	.wrapper{
+		width:90%;
+		margin:0 5%;
+	}
 
+	h1 { color: #cc3399;}
+	
+	.timeline {
+		margin: -9px 0px 21px 0px;
+		float: none;
+		line-height: 14px;
+		text-align: left;
+	}
 }
 
-@media only screen and (min-width: 768px) {
-
-/* ============
-    WIDE: Menu
-   ============ */
+@media only screen and (min-width:480px) and (max-width:768px) {
 	
+	.wrapper{
+		width:90%;
+		margin:0 5%;
+	}
+
+	h1 { color: #ff6699;}
+
 	#title{
 		float:left;
 	}
 
-
-/* ============
-    WIDE: Main
-   ============ */
+	.timeline {
+		margin: -9px 0px 21px 0px;
+		float: none;
+		line-height: 14px;
+		text-align: left;
+	}
 
 	#main article{
 		float:left;
@@ -205,18 +220,7 @@ ul {
 		float:right;
 		width:28%;
 	}
-}
 
-@media only screen and (min-width: 1140px) {
-
-/* ===============
-    Maximal Width
-   =============== */
-
-	.wrapper{
-		width:1026px; /* 1140px - 10% for margins */
-		margin:0 auto;
-	}
 }
 
 /* ==|== print styles ======================================================= */

@@ -61,9 +61,9 @@ input:invalid, textarea:invalid { background-color: #f0dddd; }
 table { border-collapse: collapse; border-spacing: 0; }
 td { vertical-align: top; }
 
-body { 
+body {
 	font:14px/22px 'PT Sans', Arial, sans-serif;
-	color: #000; 
+	color: #000;
 }
 
 .wrapper{
@@ -81,7 +81,7 @@ body {
 	background:#fff;
 }
 
-#title{ 
+#title{
 	color:#000;
 	padding: 0 0 0 50px;
 }
@@ -94,6 +94,7 @@ body {
 header h1 span {
 	display: block;
 	font-weight: normal;
+	font-size: .9em;
 }
 
 address {
@@ -108,8 +109,11 @@ address span {
 
 ul li {
 	list-style: none;
-	line-height: 16px;
-	padding: 0 0 9px 0;
+	line-height: 1.5em;
+	padding: 0 50px 9px 15px;
+	background-image: url(../images/asterisk.gif);
+	background-repeat: no-repeat;
+	background-position: 0 .5em;
 }
 
 ul {
@@ -180,6 +184,10 @@ ul {
 		margin:0 5%;
 	}
 
+	ul li {
+		padding: 0 0 9px 15px;
+	}
+
 	#main article {
 		float: none;
 		width: 65%;
@@ -190,7 +198,7 @@ ul {
 		width: 65%;
 		padding: 0 0 0 50px;
 	}
-	
+
 	.timeline {
 		margin: -9px 0px 21px 0px;
 		float: none;
@@ -200,7 +208,7 @@ ul {
 }
 
 @media only screen and (min-width:480px) and (max-width:768px) {
-	
+
 	.wrapper{
 		width:90%;
 		margin:0 5%;
@@ -222,7 +230,7 @@ ul {
 		width:57%;
 		padding: 0 0 0 50px;
 	}
-		
+
 	#main aside{
 		float:right;
 		width:28%;
@@ -231,13 +239,13 @@ ul {
 }
 
 /* ==|== print styles ======================================================= */
- 
+
 @media print {
-  * { background: transparent !important; color: black !important; text-shadow: none !important; filter:none !important; -ms-filter: none !important; } 
+  * { background: transparent !important; color: black !important; text-shadow: none !important; filter:none !important; -ms-filter: none !important; }
   a, a:visited { text-decoration: underline; }
   a[href]:after { content: " (" attr(href) ")"; }
   abbr[title]:after { content: " (" attr(title) ")"; }
-  .ir a:after, a[href^="javascript:"]:after, a[href^="#"]:after { content: ""; } 
+  .ir a:after, a[href^="javascript:"]:after, a[href^="#"]:after { content: ""; }
   pre, blockquote { border: 1px solid #999; page-break-inside: avoid; }
   thead { display: table-header-group; }
   tr, img { page-break-inside: avoid; }

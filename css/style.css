@@ -120,6 +120,33 @@ ul {
 	padding: 0;
 }
 
+aside header {
+	font-size: .7em;
+	text-transform:uppercase;
+}
+
+aside header.second {
+	padding:15px 0 0 0;
+}
+
+aside p {
+	padding-bottom: .125em;
+}
+
+aside span.college {
+	background-image: url(../images/logo-k_sm.jpg);
+	background-repeat: no-repeat;
+	background-position: -1em -1em;
+	display:block;
+	padding: 0 15px 39px 83px;
+}
+
+aside span.degree {
+	display:block;
+	padding: 0 0 9px 0;
+	line-height: 1.5em;
+}
+
 /* ==============
     MOBILE: Main
    ============== */
@@ -148,7 +175,7 @@ ul {
 }
 
 #main aside{
-	float:right;
+	float:left;
 	width:28%;
 }
 
@@ -190,12 +217,12 @@ ul {
 
 	#main article {
 		float: none;
-		width: 65%;
+		width: 75%;
 	}
 
 	#main aside {
 		float: none;
-		width: 65%;
+		width: 75%;
 		padding: 0 0 0 50px;
 	}
 
@@ -207,7 +234,7 @@ ul {
 	}
 }
 
-@media only screen and (min-width:480px) and (max-width:768px) {
+@media only screen and (min-width:480px) and (max-width:1020px) {
 
 	.wrapper{
 		width:90%;
@@ -225,17 +252,18 @@ ul {
 		text-align: left;
 	}
 
-	#main article{
-		float:left;
-		width:57%;
-		padding: 0 0 0 50px;
-	}
 
-	#main aside{
-		float:right;
-		width:28%;
-	}
 
+}
+
+@media only screen and (min-width:1020px) {
+	aside span.college {
+		background-image: url(../images/logo-rgb_sm.jpg);
+		background-repeat: no-repeat;
+		background-position: -1em -1em;
+		display:block;
+		padding: 0 15px 39px 83px;
+	}
 }
 
 /* ==|== print styles ======================================================= */

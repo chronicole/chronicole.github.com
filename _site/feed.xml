@@ -6,63 +6,20 @@
 </description>
     <link>http://codeorcodenot.com/</link>
     <atom:link href="http://codeorcodenot.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 09 Nov 2015 12:09:08 -0800</pubDate>
-    <lastBuildDate>Mon, 09 Nov 2015 12:09:08 -0800</lastBuildDate>
+    <pubDate>Wed, 11 Nov 2015 19:49:50 -0800</pubDate>
+    <lastBuildDate>Wed, 11 Nov 2015 19:49:50 -0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Cobbler Finally Shoes Own Children</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
-
+        <description>&lt;div class=&quot;bio&quot;&gt;
+  &lt;p&gt;... lives in Portland and loves it very much ... used to live in Austin and misses it very much ... went to college &lt;strong&gt;&lt;a href=&quot;http://mizzou.edu&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/strong&gt; ... and then worked &lt;strong&gt;&lt;a href=&quot;http://www.senate.state.tx.us&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/strong&gt;, &lt;a href=&quot;http://www.pdx.edu&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;, &lt;a href=&quot;http://ohsu.edu&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt; and currently &lt;a href=&quot;http://entp.com&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt; ... shook hands with &lt;a href=&quot;http://en.wikipedia.org/wiki/Neil_Armstrong&quot; target=&quot;_blank&quot;&gt;him&lt;/a&gt; and ate the Governor&#39;s BBQ before he was President ... is a photographer. One of these days she will have all her negatives in digital form, but for now you can check out all 12 books if you are in the neighborhood. She keeps them next to her etchings ... ran/walked/staggered to finish the 2000 Portland Marathon. She finished the last five miles in the time it took her to do the first 21 ... used to write for &lt;a href=&quot;http://photojojo.com&quot; target=&quot;_blank&quot;&gt;this site&lt;/a&gt; and thinks they are a groovy bunch ... was an editor &lt;a href=&quot;http://www.digital-web.com/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt; too ... and has an awesome part-time gig at &lt;a href=&quot;http://420creative.com&quot; target=&quot;_blank&quot;&gt;this site&lt;/a&gt; ... wins things ALL THE TIME ... misses you, you, and yes, even &lt;a href=&quot;mailto:chronicole+aboutme@gmail.com&quot;&gt;you&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Mon, 09 Nov 2015 10:58:29 -0800</pubDate>
-        <link>http://codeorcodenot.com/jekyll/update/2015/11/09/jekyll.html</link>
-        <guid isPermaLink="true">http://codeorcodenot.com/jekyll/update/2015/11/09/jekyll.html</guid>
+        <link>http://codeorcodenot.com/2015/11/09/cobbler.html</link>
+        <guid isPermaLink="true">http://codeorcodenot.com/2015/11/09/cobbler.html</guid>
         
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 08 Nov 2015 10:58:29 -0800</pubDate>
-        <link>http://codeorcodenot.com/jekyll/update/2015/11/08/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://codeorcodenot.com/jekyll/update/2015/11/08/welcome-to-jekyll.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
         
       </item>
     

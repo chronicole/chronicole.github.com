@@ -1,5 +1,7 @@
 ---
-layout: home
+layout: page
+title: Resume
+permalink: /blog/
 ---
 
 <div class="home">

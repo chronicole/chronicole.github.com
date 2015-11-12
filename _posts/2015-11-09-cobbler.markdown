@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Cobbler Finally Shoes Own Children"
+date:   2015-11-09 18:58:29
+categories:
+excerpt: "Though very slowly"
+---
+<div class="bio">
+  <p>... lives in Portland and loves it very much ... used to live in Austin and misses it very much ... went to college <strong><a href="http://mizzou.edu" target="_blank">here</a></strong> ... and then worked <strong><a href="http://www.senate.state.tx.us" target="_blank">here</a></strong>, <a href="http://www.pdx.edu" target="_blank">here</a>, <a href="http://ohsu.edu" target="_blank">here</a> and currently <a href="http://entp.com" target="_blank">here</a> ... shook hands with <a href="http://en.wikipedia.org/wiki/Neil_Armstrong" target="_blank">him</a> and ate the Governor's BBQ before he was President ... is a photographer. One of these days she will have all her negatives in digital form, but for now you can check out all 12 books if you are in the neighborhood. She keeps them next to her etchings ... ran/walked/staggered to finish the 2000 Portland Marathon. She finished the last five miles in the time it took her to do the first 21 ... used to write for <a href="http://photojojo.com" target="_blank">this site</a> and thinks they are a groovy bunch ... was an editor <a href="http://www.digital-web.com/" target="_blank">here</a> too ... and has an awesome part-time gig at <a href="http://420creative.com" target="_blank">this site</a> ... wins things ALL THE TIME ... misses you, you, and yes, even <a href="mailto:chronicole+aboutme@gmail.com">you</a>.</p>
+</div>

@@ -1,8 +1,12 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
 @charset "utf-8";
 
 
+
 // Our variables
-$base-font-family: 'PT Sans', Arial, sans-serif;
+$base-font-family: Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
@@ -39,8 +43,7 @@ $on-laptop:        800px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "../_sass/base",
-        "../_sass/layout",
-        "../_sass/syntax-highlighting",
-        "../_sass/resume"
+        "base",
+        "layout",
+        "syntax-highlighting"
 ;

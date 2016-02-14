@@ -5635,8 +5635,7 @@ div.thumbnail {
 .header .hero-unit {
   margin-bottom: 0;
   font-size: 24px;
-  padding: 60px 10%;
-  background:rgba(0,0,0, .6);
+  padding: 60px 10% 0;
 }
 .header .hero-unit h1,
 .header .hero-unit p {

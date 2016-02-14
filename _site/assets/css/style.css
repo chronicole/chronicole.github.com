@@ -11,13 +11,13 @@ body {
 }
 
 a {
-	color: #004e80;
+	color: #047ecc;
 }
 
 a:hover,
 a:active,
 a:focus {
-	color: #047ecc;
+	color: #004e80;
 }
 
 [class^="icon-"],

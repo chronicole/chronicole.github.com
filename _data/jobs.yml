@@ -1,7 +1,8 @@
 - title: Developer (Contractor)
   employer: Block 81
+  employer_url: http://block81.com
   start_date: 2007-01-01
-  end_date:
+  end_date: 
   location: Portland
   description: >
     I'm a block of text and no one thinks badly of me so that is kind of awesome and I can go on and on but why would I Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -19,9 +20,10 @@
 
 - title: Website Content Manager (Contractor)
   employer: Altimeter Group
+  employer_url: http://altimetergroup.com
   start_date: 2008-03-01
   end_date:
-  location: 
+  location: Remote
   description: >
     I'm a block of text and no one thinks badly of me so that is kind of awesome and I can go on and on but why would I Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -36,9 +38,10 @@
 
 - title: Developer (Contractor)
   employer: An Event Apart
+  employer_url: http://aneventapart.com
   start_date: 2015-10-01
   end_date:
-  location: 
+  location: Remote
   description: >
     I'm a block of text and no one thinks badly of me so that is kind of awesome and I can go on and on but why would I Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -53,11 +56,30 @@
     - item: Bugfixes
     - item: Other duties as mutually agreed
 
+- title: Developer (Contractor)
+  employer: Modern Tribe
+  employer_url: http://tri.be
+  start_date: 2016-01-01
+  end_date:
+  location: Remote
+  description: >
+    I'm a block of text and no one thinks badly of me so that is kind of awesome and I can go on and on but why would I Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  tasks:
+    - item: Create test plans, cases and capture test results
+    - item: Maintain and keep up to date a schedule of all upcoming deliveries and deployments.
+    - item: Work collaboratively with a team to achieve client goals
+
 - title: QA Lead/Developer
   employer: ENTP
+  employer_url: http://entp.com
   start_date: 2008-02-01
   end_date: 2015-10-01
-  location: 
+  location: Portland
   description: >
     I'm a block of text and no one thinks badly of me so that is kind of awesome and I can go on and on but why would I Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -74,9 +96,10 @@
 
 - title: Contractor
   employer: FILTER LLC
+  employer_url: http://www.filterdigital.com/
   start_date: 2006-01-01
   end_date: 
-  location: 
+  location: Remote
   description: >
     I'm a block of text and no one thinks badly of me so that is kind of awesome and I can go on and on but why would I Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -90,9 +113,10 @@
 
 - title: Editor
   employer: Digital Web Magazine
+  employer_url: http://www.filterdigital.com/
   start_date: 2008-01-01
   end_date: 2009-01-01
-  location: 
+  location: Remote
   description: >
     I'm a block of text and no one thinks badly of me so that is kind of awesome and I can go on and on but why would I Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -105,9 +129,10 @@
 
 - title: Contributor
   employer: Photojojo
+  employer_url: http://photojojo.com/
   start_date: 2006-09-01
   end_date: 2008-08-01
-  location: 
+  location: Remote
   description: >
     I'm a block of text and no one thinks badly of me so that is kind of awesome and I can go on and on but why would I Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -120,9 +145,10 @@
 
 - title: Web/Print Communications Coordinator
   employer: Oregon Health & Sciences University
+  employer_url: http://ohsu.edu
   start_date: 2005-12-01
   end_date: 2008-02-01
-  location: 
+  location: Portland
   description: >
     I'm a block of text and no one thinks badly of me so that is kind of awesome and I can go on and on but why would I Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -138,9 +164,10 @@
 
 - title: Publications Editor
   employer: Portland State University
+  employer_url: http://pdx.edu/
   start_date: 2000-03-01
   end_date: 2005-05-01
-  location: 
+  location: Portland
   description: >
     I'm a block of text and no one thinks badly of me so that is kind of awesome and I can go on and on but why would I Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -155,9 +182,10 @@
 
 - title: Adjunct Instructor
   employer: Mt. Hood Community College
+  employer_url: http://mhcc.edu/
   start_date: 2003-09-01
   end_date: 2004-05-01
-  location: 
+  location: Portland
   description: >
     I'm a block of text and no one thinks badly of me so that is kind of awesome and I can go on and on but why would I Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -170,9 +198,10 @@
 
 - title: Graphic Designer/Photographer III
   employer: Texas Senate Media Services
+  employer_url: http://www.senate.state.tx.us
   start_date: 1997-01-01
   end_date: 1999-08-01
-  location: 
+  location: Austin
   description: >
     I'm a block of text and no one thinks badly of me so that is kind of awesome and I can go on and on but why would I Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,

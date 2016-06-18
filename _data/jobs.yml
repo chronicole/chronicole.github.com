@@ -1,24 +1,4 @@
 - title: Developer (Contractor)
-  employer: Block 81
-  employer_url: http://block81.com
-  start_date: 2007-01-01
-  end_date: 
-  location: Portland
-  description: >
-    I'm a block of text and no one thinks badly of me so that is kind of awesome and I can go on and on but why would I Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  tasks:
-    - item: Plan and build Web sites using ExpressionEngine, Craft CMS, Statamic, WordPress
-    - item: Maintain client Web sites to support marketing strategies
-    - item: Work collaboratively with a team to achieve client goals
-    - item: Troubleshoot and resolve website issues
-    - item: Experienced with email marketing and custom email templates
-
-- title: Developer (Contractor)
   employer: An Event Apart
   employer_url: http://aneventapart.com
   start_date: 2015-10-01
@@ -57,9 +37,9 @@
     - item: Work collaboratively with a team to achieve client goals
 
 - title: Developer (Contractor)
-  employer: CMD Agency
-  employer_url: http://cmdagency.com
-  start_date: 2016-02-23
+  employer: Block 81
+  employer_url: http://block81.com
+  start_date: 2007-01-01
   end_date: 
   location: Portland
   description: >
@@ -70,7 +50,27 @@
     cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
     proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   tasks:
-    - item: 
+    - item: Plan and build Web sites using ExpressionEngine, Craft CMS, Statamic, WordPress
+    - item: Maintain client Web sites to support marketing strategies
+    - item: Work collaboratively with a team to achieve client goals
+    - item: Troubleshoot and resolve website issues
+    - item: Experienced with email marketing and custom email templates
+
+- title: Developer (Contractor)
+  employer: CMD Agency
+  employer_url: http://cmdagency.com
+  start_date: 2016-02-23
+  end_date: 2016-05-05
+  location: Portland
+  description: >
+    I'm a block of text and no one thinks badly of me so that is kind of awesome and I can go on and on but why would I Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  tasks:
+    - item: frontend developer for client campaigns and projects as needed
 
 
 - title: Website Content Manager (Contractor)

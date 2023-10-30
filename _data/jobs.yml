@@ -1,3 +1,38 @@
+- title: Senior Technical Writer
+  employer: Airship
+  employer_url: http://airship.com
+  start_date: 05-31-2022
+  end_date: 09-08-2023
+  location: Remote
+  description: >
+    I'm a block of text and no one thinks badly of me so that is kind of awesome and I can go on and on but why would I Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  tasks:
+    - item: Ensure customer documentation was accurate, up-to-date, and easy to understand, both for technical and non-technical audiences
+    - item: Worked with the Product, Support, and Technology teams to develop documentation for the messaging and mobile wallet products
+
+- title: Digital Content Manager (Contractor)
+  employer: Moda Health
+  employer_url: http://modahealth.com
+  start_date: 09-09-2019
+  end_date: 12-31-2022
+  location: Remote
+  description: >
+    I'm a block of text and no one thinks badly of me so that is kind of awesome and I can go on and on but why would I Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  tasks:
+    - item: Build client sites in SiteCore CMS
+    - item: Advise UX team on site/content architecture to best utilize the CMS
+    - item: Advise clients on implementing accessibility features for sites
+
 - title: Developer (Contractor)
   employer: An Event Apart
   employer_url: http://aneventapart.com
